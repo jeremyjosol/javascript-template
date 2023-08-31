@@ -8,14 +8,14 @@ _Jeremy Josol_
 
 ## Technologies Used
 
+* _Github_
 * _VSCode_
 * _HTML_
 * _CSS_
 * _Bootstrap_
 * _Javascript_
 * _Node.js v16.13.1_
-* _npm 8.1.2_
-* _Jest_
+* _npm v8.1.2_
 
 ### Prerequisuites
 > _Your computer or codespace should use **Node.js version 16** or greater. For more information, see_ [Node.js](https://nodejs.org/en).
@@ -24,11 +24,11 @@ _Jeremy Josol_
 
 1. Clone the [repository](https://github.com/jeremyjosol/project_name.git) by either copying the link or entering the command in your terminal:
     ```
-    $ git clone enter_link_here
+     git clone enter_link_here
     ```
   2. After successfully cloning down the repository, navigate to the **'projectname_project'** directory, if the file is located in your desktop, enter the following command:
       ```
-      $ cd projectname_project
+       cd projectname_project
 3. Before you can use or deploy the project, make sure to install its dependencies. Run the following command in your terminal:
 
     `$ npm install`
