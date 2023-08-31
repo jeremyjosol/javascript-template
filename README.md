@@ -63,7 +63,7 @@ _Jeremy Josol_
 
 
 
-You should now be set up to use, develop, and test **Project Name**. If you encounter any issues or have questions, feel free to reach out or refer to the project's documentation.Alternatively, if you'd like to view the project without setting up a local environment, you can access it on [Github Pages](https://jeremyjosol.github.io/aug252023_project/). 
+You should now be set up to use, develop, and test **Project Name**. If you encounter any issues or have questions, feel free to reach out or refer to the project's documentation. Alternatively, if you'd like to view the project without setting up a local environment, you can access it on [Github Pages](https://jeremyjosol.github.io/aug252023_project/). 
 
 
 ## Known Bugs
