@@ -23,20 +23,19 @@ _Jeremy Josol_
 ## Application Setup
 
 1. Clone the [repository](https://github.com/jeremyjosol/project_name.git) by either copying the link or entering the command in your terminal:
-
     ```
     $ git clone enter_link_here
     ```
-2. After successfully cloning, navigate to the **'projectname_project'** directory, if the file is located in your desktop, enter the following command:
-    ```
-    $ cd projectname_project```
+  2. After successfully cloning down the repository, navigate to the **'projectname_project'** directory, if the file is located in your desktop, enter the following command:
+      ```
+      $ cd projectname_project
 3. Before you can use or deploy the project, make sure to install its dependencies. Run the following command in your terminal:
 
-    ```$ npm install```
+    `$ npm install`
 
     > _This command will read the **package.json** file and install all the required packages_.
 
-4. Once the dependencies are installed, you're ready to perform these available options:
+4. Once its dependencies are installed, you're ready to perform these available options:
     
     - To build the project:
     
