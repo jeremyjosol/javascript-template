@@ -30,7 +30,6 @@ _Jeremy Josol_
 2. After successfully cloning down the repository, navigate to the **'projectname_project'** directory, if the file is located in your desktop, enter the following command:
       ```
        cd projectname_project
-
 3. In the root directory of `projectname_project`, enter the following command `touch .env`. This file is where you will store your API key.
 
 4. If you don't already have an API key for [apiwebsite](apiwebsite), create an account to have one generated. This is required in order for the function to call on the API in this project.
@@ -77,7 +76,7 @@ You should now be set up to use, develop, and test **Project Name**. If you enco
 
 
 ## Known Bugs
-No major bugs known. Please kindly report any known issues to the repository's creator.
+Users may experience issues with API data output, if relevant issues occur, trash the `node_modules` and `package-lock.json` files and repeat step 6 in Application Setup.
 
 ## MIT License
 Copyright (c) 2023 Jeremy Josol
