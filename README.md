@@ -31,15 +31,15 @@ _Jeremy Josol_
       ```
        cd projectname_project
 
-3. In the root directory of `projectname_project`, enter the following command `touch .env`. This file is where you will store your API id.
+3. In the root directory of `projectname_project`, enter the following command `touch .env`. This file is where you will store your API key.
 
-4. If you don't already have an API key for [apiwebsite](apiwebsite), sign up for an account to generate one. It is required in order to call on the API in this project.
+4. If you don't already have an API key for [apiwebsite](apiwebsite), create an account to have one generated. This is required in order for the function to call on the API in this project.
 
 5. After opening up your codespace, locate the .env file. Within the .env file, enter the following code: 
-```
-API_KEY=yourAPIkey
-```
-.env will already be located in the .gitignore file to protect this sensitive information.
+      ```
+        API_KEY=yourAPIkey
+      ```  
+    > _.env will already be located in the .gitignore file to protect this sensitive information._
 
 6. Before you can use or deploy the project, make sure to install its dependencies. Run the following command in your terminal:
 
@@ -65,7 +65,7 @@ API_KEY=yourAPIkey
     
       `$ npm run test`
 
-      > _This will activate the test suites you've configured in your project and provide feedback on whether they have executed successfully._
+      > _This will activate any test suites you've configured in your project and provide feedback on whether they have executed successfully._
         
     - To start the local development server: 
     
